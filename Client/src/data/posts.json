@@ -1,0 +1,31 @@
+{
+    "post": [{
+            "id": 1,
+			"title": "Sushi",
+			"caption": "",
+			"media": {
+				"uuid": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+				"mediaType": "image"
+			},
+			"user": {
+				"name": "Chantal Ho",
+				"username": "OldHam",
+				"profilePhoto": "https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68"
+			}
+    	},
+		{
+			"id": 2,
+			"title": "Burrito",
+			"caption": "",
+			"media": {
+				"uuid": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+				"mediaType": "image"
+			},
+			"user": {
+				"name": "Tom Zielinski",
+				"username": "TommyT",
+				"profilePhoto": "https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68"
+			}
+		}
+    ]
+}

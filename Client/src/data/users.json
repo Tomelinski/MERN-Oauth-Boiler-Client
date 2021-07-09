@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Tom Zielinski",
+      "username": "zielinskit",
+      "password": "password",
+      "profilePhoto": "https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68",
+      "posts":[{
+              "id": 1,
+			        "title": "Sushi",
+			        "caption": "",
+			        "media": {
+			       	  "uuid": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+			       	  "mediaType": "image"
+			        }
+      }]
+    },
+    {
+      "name": "Admin",
+      "username": "admin",
+      "password": "admin",
+      "profilePhoto": "https://i.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68",
+      "posts":[{
+              "id": 2,
+			        "title": "Sushi",
+			        "caption": "",
+			        "media": {
+			       	  "uuid": "https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ",
+			       	  "mediaType": "image"
+			        }
+    	      }
+      ]
+    }
+  ]
+}
